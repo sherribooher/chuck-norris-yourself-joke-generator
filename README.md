@@ -4,6 +4,7 @@
 
 Instructions for viewing the app:
 1. Download or clone the entire repository
-2. Double-click on the index.html file to open the file in your favorite web browser
-3. Enjoy!
+2. Unzip the repo
+3. Double-click on the index.html file to open the file in your favorite web browser
+4. Enjoy!
 
